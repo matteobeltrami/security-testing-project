@@ -39,7 +39,7 @@ This project highlights the importance of combining static, dynamic, and manual 
 
 ## Contacts
 
-Christian Sassi - [matteo.beltrami-1@studenti.unitn.it](mailto:matteo.beltrami-1@studenti.unitn.it)
+Matteo Beltrami - [matteo.beltrami-1@studenti.unitn.it](mailto:matteo.beltrami-1@studenti.unitn.it)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/extras/dark.png">
